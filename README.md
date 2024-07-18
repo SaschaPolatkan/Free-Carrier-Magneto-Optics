@@ -1,5 +1,4 @@
-The Python project is a GUI that visualizes the optical response of free carriers in an applied magnetic field.  
-The GUI was created with the intention to quickly separate exotic from free-carrier effects.  
+The Python project is a GUI that visualizes the reflectivity of free carriers in an applied magnetic field.  
 
 For reference, see:  
 Rep. Prog. Phys. 33 1193 (1970) - Palik, Furdyna  
